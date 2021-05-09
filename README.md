@@ -1,4 +1,4 @@
-# 							       ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&section=header&text=ReplaceMyBrain &fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&section=header&text=ReplaceMyBrain &fontSize=80)
 
 ```markdown
 [![ReplaceMyBrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReplaceMyBrain)](https://github.com/ReplaceMyBrain/github-readme-stats)

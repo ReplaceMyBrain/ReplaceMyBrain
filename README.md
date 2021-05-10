@@ -1,4 +1,4 @@
-# Hello, I'm DoWoo Kim!					
+# Hello
 
 
 

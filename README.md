@@ -11,7 +11,7 @@
   [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://javascript.info/)
   
   #### DB
-  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white")](https://www.mysql.com/)
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=swift&logoColor=white)](https://www.mysql.com/)
 
   #### IDE
 
